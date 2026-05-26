@@ -7,7 +7,7 @@ author_profile: true
 
 ## Journal Articles
 
-Kilpatrick, A., & Bundgaard-Nielsen, R. (2026). Say it like you mean it: Linguistic vividness and the attentional optimization hypothesis. *Cognition*, 269, 106406. [ResearchGate](https://www.researchgate.net/profile/Alexander-Kilpatrick-2)
+Kilpatrick, A., & Bundgaard-Nielsen, R. (2026). Say it like you mean it: Linguistic vividness and the attentional optimization hypothesis. *Cognition*, 269, 106406. [ResearchGate](https://www.researchgate.net/publication/398711780_Say_it_like_you_mean_it_Linguistic_vividness_and_the_attentional_optimization_hypothesis)
 
 Flaksman, M., & Kilpatrick, A. J. (2025). Against the tide: How language-specificity of imitative words increases with time (as evidenced by surprisal). In M. Flaksman & P. Akumbu (Eds.), *SKASE Journal of Theoretical Linguistics*. [ResearchGate](https://www.researchgate.net/profile/Alexander-Kilpatrick-2)
 
@@ -33,9 +33,9 @@ Kilpatrick, A. J., Bundgaard-Nielsen, R. L., & Baker, B. J. (2019). Japanese co-
 
 Kilpatrick, A. J., Bundgaard-Nielsen, R. L., & Iida, H. (2026). Markedness as surprisal: Information theory and language inefficiency. *Proceedings of the Annual Meeting of the Cognitive Science Society (CogSci 2026)*. [ResearchGate](https://www.researchgate.net/publication/404217280_Markedness_as_Surprisal_Information_Theory_and_Language_Inefficiency)
 
-Mooshammer, T., & Kilpatrick, A. J. (2025). Age-related positivity effects in the perception of constructed languages. *Proceedings of the 21st P&P: Phonetik und Phonologie im deutschsprachigen Raum*. [ResearchGate](https://www.researchgate.net/profile/Alexander-Kilpatrick-2)
+Mooshammer, T., & Kilpatrick, A. J. (2025). Age-related positivity effects in the perception of constructed languages. *Proceedings of the 21st P&P: Phonetik und Phonologie im deutschsprachigen Raum*. [ResearchGate](https://www.researchgate.net/publication/401299560_Age-Related_Positivity_Effects_in_Affective_Judgments_of_Constructed_Languages)
 
-Kilpatrick, A. J., & Bundgaard-Nielsen, R. L. (2025). Say what you mean: Linguistic vividness and information theory. *Proceedings of the 31st Architectures and Mechanisms for Language Processing*. [ResearchGate](https://www.researchgate.net/profile/Alexander-Kilpatrick-2)
+Kilpatrick, A. J., & Bundgaard-Nielsen, R. L. (2025). Say what you mean: Linguistic vividness and information theory. *Proceedings of the 31st Architectures and Mechanisms for Language Processing*. [ResearchGate](https://www.researchgate.net/publication/393966711_Say_what_you_mean_Linguistic_vividness_and_information_theory)
 
 Kilpatrick, A. J., & Bundgaard-Nielsen, R. L. (2025). Language processing insights from average phonemic bigram surprisal. *Proceedings of the 31st Architectures and Mechanisms for Language Processing*. [ResearchGate](https://www.researchgate.net/profile/Alexander-Kilpatrick-2)
 
