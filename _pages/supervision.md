@@ -1,8 +1,11 @@
 ---
 layout: single
 title: "Thesis Supervision Statement"
-permalink: /supervision/
+collection: teaching
+permalink: /teaching/supervision/
 author_profile: true
+date: 2025-01-01
+venue: "University of Aizu"
 ---
 
 <h2>Supervision Statement (English)</h2>
