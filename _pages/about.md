@@ -23,14 +23,6 @@ My research explores language structure and cognition using computational and in
 
 [Publications](/publications/) | [Google Scholar](https://scholar.google.com/citations?user=vHQ2KXEAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Alexander-Kilpatrick-2)
 
-## Recent News / Blog
-
-{% for post in site.posts limit:3 %}
-- [{{ post.title }}]({{ post.url }}) ({{ post.date | date: "%Y-%m-%d" }})
-{% endfor %}
-
-[All posts →](/blog/)
-
 ## CV & Contact
 
 [Download CV (PDF)](/files/cv.pdf) | [View CV](/cv/) | alex@u-aizu.ac.jp
