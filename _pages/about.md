@@ -9,7 +9,7 @@ redirect_from:
 
 I am an Associate Professor in the [Center for Language Research](https://www.u-aizu.ac.jp/labs/clr/) at the University of Aizu, Japan, and director of the Language, Cognition, and Computation Laboratory.
 
-My research explores language structure and cognition using computational and information-theoretic approaches. I am particularly interested in how surprisal, entropy, and phonological form shape the way we process and remember words. Recent work published in *Cognition* demonstrates that vivid, concrete words carry more information and are better retained in memory.
+My research explores language structure and cognition using computational and information-theoretic approaches. I am particularly interested in how surprisal, entropy, and phonological form shape the way we process and remember words.
 
 ## Research Interests
 - Psycholinguistics and cognitive processing
