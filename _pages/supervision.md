@@ -4,7 +4,6 @@ title: "Thesis Supervision Statement"
 collection: teaching
 permalink: /teaching/supervision/
 author_profile: true
-date: 2025-01-01
 venue: "University of Aizu"
 ---
 
